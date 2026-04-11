@@ -1,2 +1,8 @@
 # BiST
-The paper has been accepted for the proceedings of LREC-2026
+Mixture-of-Experts Architecture for Stance Detection
+
+A Gold Standard Bangla-English Bilingual Corpus for Sentence Structure and Tense Classification with Inter-Annotator Agreement
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2604.04708)
+
+The paper has been accepted for the workshop proceedings of the 15th International Conference on Language Resources and Evaluation (LREC'26).
