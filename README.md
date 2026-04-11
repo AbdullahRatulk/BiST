@@ -1,5 +1,4 @@
 # BiST
-Mixture-of-Experts Architecture for Stance Detection
 
 A Gold Standard Bangla-English Bilingual Corpus for Sentence Structure and Tense Classification with Inter-Annotator Agreement
 
